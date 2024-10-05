@@ -1,0 +1,168 @@
+Chondatian, Male
+Adam
+Adelard
+Aldous
+Anslem
+Arnold
+
+Chondatian, Female
+
+Anna
+Julia
+Elza
+
+Illuskan, Male
+
+Bjorn
+Olaf
+Wulfrick
+Thorbjorn
+
+Illuskan, Female
+
+Alfhild
+Arnbjorg
+Ase
+Aslog
+Astrid
+Auda
+
+Chultan, Male
+
+Abebe
+Abel
+Abidemi
+Abrafo
+Adisa
+
+
+Chultan, Female
+
+Abebi
+Abena
+Abimbola
+Akoko
+
+Dwarf, Male
+
+Eberk
+Tordek
+Thorin
+Thorgrim
+
+Dwarf, Female
+
+Helga
+Bjorna
+Lusia
+Branda
+
+Half-Orc, Male
+
+Argan
+Braak
+Brug
+Cagak
+Dench
+Dorn
+Dren
+Druuk
+Feng
+
+Half-Orc, Female
+
+Arha
+Baggi
+Bendoo
+Bilga
+Brakka
+Creega
+Drenna
+Ekk
+
+Tiefling, Male
+
+Abad
+Ahrin
+Akmen
+Amnon
+
+Tiefling, Female
+
+Akta
+Anakis
+Armara
+Astaro
+Aym
+Azza
+
+Halfing, Male
+
+Alton
+Ander
+Bernie
+Bobbin
+Cade
+
+Halffing, Female
+
+Alain
+Andry
+Anne
+Bella
+Blossom
+Bree
+
+Gnome, Male
+
+Alston
+Alvyn
+Anverth
+Arumawann
+Bilbron
+Boddynock
+Brocc
+Burgell
+
+Gnome, Female
+
+Abalaba
+Bimpnottin
+Breena
+Buvvie
+Callybon
+
+Elf, Male
+
+Adran
+Aelar
+Aerdeth
+Ahvain
+Aramil
+Arannis
+
+Elf, Female
+
+Adria
+Ahinar
+Althaea
+Anastrianna
+Andraste
+
+Dragonborn, Male
+
+Adrex
+Arjhan
+Azzakh
+Balasar
+Baradad
+Bharash
+
+Dragonborn, Female
+
+Akra
+Aasathra
+Antrara
+Arava
+Biri
+Blendaeth
